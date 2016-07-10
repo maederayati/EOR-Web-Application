@@ -85,6 +85,12 @@ Furthermore, there is an option to see the value of textual parameters for each 
 
 
 
+## Screening Criteria
+Screening criteria submenu is mainly designed for comparing values for certain parameters in existing projects with what the user has in mind. The parameters for Existing Projects are the median values (at cumulative 50%) from the existing projects. As an example, after the user inputs a temperature, and click Compare, it will show all existing project temperature compared with the user input temperature.<br><br>
+
+![Table 1](https://github.com/maederayati/Test/blob/master/screeningCriteria.jpg)<br><br>
+![Table 1](https://github.com/maederayati/Test/blob/master/ScGraph.png)<br><br>
+
 
 
 
