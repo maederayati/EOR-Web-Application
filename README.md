@@ -42,6 +42,39 @@ The Technical Resources,  contains related sources to the process. For example i
 ![Technical Resources Page](https://github.com/maederayati/Test/blob/master/technicalResources.jpg)<br><br>
 
 
+## Database
+
+The main purpose of this page is to draw plots based on the databse. The plots might be either two dimensional (Y, X1) or three dimensional (Y, X1, X2). The follwoing information is necessary to get any plot:
+
+1. X Axis: All the possible options for X axis are shown on a drop down list. The parameters that are listed for X axis are either numerical or textual.
+2. Y Axis:  All the possible options for X axis are shown on a drop down list. The options for Y axis are only numerical.
+
+If the user for some reason does not choose a parameter name for X axis or Y axis or both, an alert would pop up and reminds the user to enter the values completely. Other optional parameters for ploting are as follows: 
+
+3. Upper bound and lower bound for X axis
+4. Upper bound and lower bound for Y axis
+5. Second X Axis
+6. Upper bound and lower bound for second X axis
+7. Constraint 1 to filter more the resulted data
+8. Upper bound and lower bound for constraint 1
+9. Constraint 2 to filter more the resulted data
+10. Upper bound and lower bound for constraint 2
+11. Relation Between Constraints which is either "AND" or "OR"
+
+
+Notice that By default the relation between constraint is "And", unless user changes the relation to "OR".
+Parameters in the drop down list are sorted alphabetically, but for convenience, project name could be seen as the first item in the list.
+
+Furthermore, there is an option to see the value of textual parameters for each process. The user can choose a specific project name and by selecting a textual parameter (e.g. references for that project). Then he can access the textual value of that parameter of that project. The data would show up in a table format. Once at a time one can either see a plot or a table but not both.
+11
+12
+If the parameter chosen for X axis is textual and the number of data found is more than a certain number, the data would be split into two or more graphs, so that user have access to all data. The following illustrates this splitting.
+13
+If the user chooses to see the value of textual parameters for a certain project, a table would show up, as it can be seen in the following picture:
+14
+15
+SCREENING CRITERIA
+
 
 
 
