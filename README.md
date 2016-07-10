@@ -1,6 +1,6 @@
 # Chemical EOR Web Application
 
-Chemical EOR Web Application is a licenced web application for representation of the data in Enhanced Oil Recovery. The website is not free and for security purposes I didn't include the source code for the website and justt put some screenshots of the website to demo the functionalities of the website. 
+Chemical EOR Web Application is a licenced web application for representation of the data of Enhanced Oil Recovery. The website is not free and for security purposes I didn't include the source code for the website and justt put some screenshots to demo the functionalities of the website. 
 
 
 
