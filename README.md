@@ -63,7 +63,13 @@ If the user for some reason does not choose a parameter name for X axis or Y axi
 
 
 Notice that By default the relation between constraint is "And", unless user changes the relation to "OR".
-Parameters in the drop down list are sorted alphabetically, but for convenience, project name could be seen as the first item in the list.
+Parameters in the drop down list are sorted alphabetically, but for convenience, project name could be seen as the first item in the list.<br><br>
+
+![Technical Resources Page](https://github.com/maederayati/Test/blob/master/database.jpg)<br><br>
+
+
+
+
 
 Furthermore, there is an option to see the value of textual parameters for each process. The user can choose a specific project name and by selecting a textual parameter (e.g. references for that project). Then he can access the textual value of that parameter of that project. The data would show up in a table format. Once at a time one can either see a plot or a table but not both.
 11
