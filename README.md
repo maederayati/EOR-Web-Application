@@ -23,3 +23,7 @@ Technical Resources contains technical contents such as:
 * Some relevant papers published by TTU
 * Chemical data in excel sheets
 * References
+
+
+##Login
+Login page includes two forms. One is for login which requires a username and another for registration. If you did not already register you have to choose a user name a password and enter the registration key you are given. Each registration key is associated with one license. 
