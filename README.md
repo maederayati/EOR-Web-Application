@@ -55,18 +55,26 @@ If the user for some reason does not choose a parameter name for X axis or Y axi
 4. Upper bound and lower bound for Y axis
 5. Second X Axis
 6. Upper bound and lower bound for second X axis
-7. Constraint 1 to filter more the resulted data
+7. Numerial Constraint 1 to filter more the resulted data
 8. Upper bound and lower bound for constraint 1
-9. Constraint 2 to filter more the resulted data
+9. Numerial Constraint 2 to filter more the resulted data
 10. Upper bound and lower bound for constraint 2
-11. Relation Between Constraints which is either "AND" or "OR"
+11. Textual Constraint to filter more the resulted data
+12. Relation Between Constraints which is either "AND" or "OR"
 
 
 Notice that By default the relation between constraint is "And", unless user changes the relation to "OR".
-Parameters in the drop down list are sorted alphabetically, but for convenience, project name could be seen as the first item in the list.<br><br>
+Parameters in the drop down list are sorted alphabetically, but for convenience, project name could be seen as the first item in the list. 
+
+<br><br>
 
 ![Technical Resources Page](https://github.com/maederayati/Test/blob/master/database.jpg)<br><br>
 
+
+After choosing the desired parameters he user clicks on plot and get the related plot. The pictures below are examples of the plot. The first plot is a two dimentinal plot and the second plot is a three dimentional plot. <br><br>
+
+![Plot 1](https://github.com/maederayati/Test/blob/master/graph1.jpg)<br><br>
+![Plot 2](https://github.com/maederayati/Test/blob/master/graph2.jpg)<br><br>
 
 
 
