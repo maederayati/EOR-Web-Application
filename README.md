@@ -37,7 +37,10 @@ Each process has  the same layout as the others and it is as follows:
 
 ## Technical Resources
 
-The Technical Resources,  contains related sources to the process. For example in polymer, the following items can be viewed as follows:
+The Technical Resources,  contains related sources to the process. For example in polymer, the following items can be viewed as follows:<br><br>
+
+![Technical Resources Page](https://github.com/maederayati/Test/blob/master/technicalResources.jpg)<br><br>
+
 
 
 
