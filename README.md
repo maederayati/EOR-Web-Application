@@ -1,5 +1,9 @@
 # Chemical EOR Web Application
 
+Chemical EOR Web Application is a licenced web application for representation of the data in Enhanced Oil Recovery. The website is not free and for security purposes I didn't include the source code for the website and justt put some screenshots of the website to demo the functionalities of the website. 
+
+
+
 
 ##Login and Registeration
 Since the website is not free, in order to use it one have to register first. In order to do the registeration you have to choose a user name a password and enter the registration key you are already given. Notice that each registration key is associated with one license, meaning only one username and password can register with one key.  After registering your user name and password you can enter login page and enter the website. <br><br>
