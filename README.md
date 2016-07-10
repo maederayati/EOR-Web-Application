@@ -26,7 +26,7 @@ Each process has  the same layout as the others and it is as follows:
 * Screening Criteria
 * Performance Data
 * Economic Models
-* 
+
 ![Main Page](https://github.com/maederayati/Test/blob/master/main.jpg)
 
 
