@@ -95,6 +95,11 @@ As the picture below suggests the number of graphs is proportional to the number
 ![Table 1](https://github.com/maederayati/Test/blob/master/ScGraph.png)<br><br>
 
 
+## Performance Data
+
+Each item in the performance data page is linked to a corresponding graph. The user can access the plots by choosing what he wants and clicking the plot button. <br><br>
+
+![Table 1](https://github.com/maederayati/Test/blob/master/performanceData.png)<br><br>
 
 
 
