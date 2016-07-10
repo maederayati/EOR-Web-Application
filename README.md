@@ -79,15 +79,12 @@ After choosing the desired parameters he user clicks on plot and get the related
 
 
 
-Furthermore, there is an option to see the value of textual parameters for each process. The user can choose a specific project name and by selecting a textual parameter (e.g. references for that project). Then he can access the textual value of that parameter of that project. The data would show up in a table format. Once at a time one can either see a plot or a table but not both.
-11
-12
-If the parameter chosen for X axis is textual and the number of data found is more than a certain number, the data would be split into two or more graphs, so that user have access to all data. The following illustrates this splitting.
-13
-If the user chooses to see the value of textual parameters for a certain project, a table would show up, as it can be seen in the following picture:
-14
-15
-SCREENING CRITERIA
+Furthermore, there is an option to see the value of textual parameters for each process. The user can choose a specific project name and by selecting a textual parameter (e.g. references for that project). Then he can access the textual value of that parameter of that project. The data would show up in a table format. Once at a time one can either see a plot or a table but not both.<br><br>
+
+![Table 1](https://github.com/maederayati/Test/blob/master/table1.jpg)<br><br>
+
+
+
 
 
 
