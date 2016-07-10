@@ -102,4 +102,11 @@ Each item in the performance data page is linked to a corresponding graph. The u
 ![Table 1](https://github.com/maederayati/Test/blob/master/performanceData.png)<br><br>
 
 
+## Economical Model
+
+In the table for an economic model, white cells are input data, and the bottom two lines show the calculated results. The calculation formula is imbedded in the cells and the table represents a chemical cost model. The user can change input values and see how the total costs will change accordingly.
+
+![Economical Model](https://github.com/maederayati/Test/blob/master/EconomicalModel.jpg)<br><br>
+
+
 
